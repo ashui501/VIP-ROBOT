@@ -2,7 +2,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**THE-VIP-BOY-OP/VIP-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashui501/VIP-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
-    𝄟🌹𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧🌹​​​​​𝄟​​​​​
+    𝄟🌹𝗩𝄟​​​​​
 </h2>
 
 <p align="center">
